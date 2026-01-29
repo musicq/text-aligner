@@ -1,4 +1,4 @@
-# text-align
+# text-aligner
 
 A utility for aligning mixed English and CJK (Chinese, Japanese, Korean) text by
 adding appropriate padding spaces based on character display width.
