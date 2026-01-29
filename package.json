@@ -1,7 +1,7 @@
 {
   "name": "text-aligner",
   "description": "Align text by adding spaces to each string so that all strings have the same number of English and Chinese characters.",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "type": "module",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
